@@ -145,24 +145,15 @@ python -m src.fetch --network all --verify-only
 
 ## Scope and maintenance
 
-Data is current through the ICMR AMRSN **8th edition (2024)**, and through
-**all eight NCDC NARS-Net editions, 2017–2024**, which are extracted in full —
-every edition NARS-Net had published through 2024 for the two organisms both
-networks report at species level.
-
-**Not yet incorporated, as of 2026-10-09.** NCDC has published a *NARS-Net
-Annual Report 2025* (`amr301.pdf`, 65 pages, posted 2026-09-13). It has not
-been read and nothing from it is in this dataset; its contents are unexamined,
-so nothing is claimed here about what it reports.
-
-Built and completed independently before the author began medical school. New
-editions are not incorporated automatically: both networks' publication pages
-are checked for editions newer than the ones above, and anything found is
-reviewed and extracted by hand, so a published report can exist for some time
-before it appears here. For anything not yet incorporated, check the
-[ICMR AMRSN site](https://iamrsn.icmr.org.in/) or the
-[NCDC's AMR Containment programme page](https://ncdc.mohfw.gov.in/includes/About/CentresAndDivision/amr.php)
-directly.
+Last reviewed 9 October 2026. Covers the ICMR AMRSN **8th edition (2024)** and
+**all eight NCDC NARS-Net editions, 2017–2024** (NARS-Net for *E. coli* and
+*S. aureus*, the two organisms both networks report at species level). New
+editions are added as the networks publish them — each is reviewed and
+extracted by hand, so there's a gap between publication and appearing here.
+One pending: NCDC's NARS-Net Annual Report 2025 (published 13 September 2026),
+not yet extracted. For anything newer, check the
+[ICMR AMRSN site](https://iamrsn.icmr.org.in/) or
+[NCDC's AMR Containment programme page](https://ncdc.mohfw.gov.in/includes/About/CentresAndDivision/amr.php).
 
 ---
 
