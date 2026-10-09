@@ -2,5 +2,11 @@
 #
 # This author has committed under two email addresses. The mapping below
 # reports both as a single identity in git log, git shortlog and git blame.
+#
+# The canonical side is the address the author commits under now. Commits
+# before 2026-10-01 were authored yashita-thakur-2
+# <yashitathakur6yt@gmail.com> and still are; this only changes what the log
+# renders, never what is stored. The direction was reversed on 2026-10-01,
+# when the committing identity changed.
 
-yashita-thakur-2 <yashitathakur6yt@gmail.com> <yashitathakur.contact@gmail.com>
+Yashita Thakur <yashitathakur.contact@gmail.com> <yashitathakur6yt@gmail.com>
