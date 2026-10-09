@@ -6,7 +6,7 @@ authors:
   - given-names: Yashita
     family-names: Thakur
     orcid: "https://orcid.org/0009-0004-7895-5250"
-repository-code: "https://github.com/yashita-thakur/icmr-amr-tracker"
+repository-code: "https://github.com/yashita-thakur/amr-tracker"
 abstract: >-
   An open-source, reproducible pipeline that extracts national antimicrobial
   resistance surveillance results from the annual reports of both of India's
